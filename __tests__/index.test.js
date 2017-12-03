@@ -1,4 +1,3 @@
-const ws = require('ws');
 const Subscription = require('subscriptions-transport-ws');
 
 describe('test ws on Ubuntu Trusty', () => {
