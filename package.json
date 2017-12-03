@@ -1,0 +1,23 @@
+{
+  "name": "travis-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutin1987/travis-ws.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yutin1987/travis-ws/issues"
+  },
+  "homepage": "https://github.com/yutin1987/travis-ws#readme",
+  "dependencies": {
+    "jest": "^21.2.1",
+    "ws": "^3.3.2"
+  }
+}
